@@ -74,7 +74,7 @@ Log transformation was also evaluated as part of the modeling process.
 The performance of multiple regression models was evaluated using
 RMSE, MAE, R² score, and accuracy.
 
-![Model Comparison Results](images/Model_comparison_results%20)
+![Model Comparison Results](images/model-comparison-results.png)
 
 ## 🏆 Results
 
