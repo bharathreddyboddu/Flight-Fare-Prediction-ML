@@ -24,6 +24,13 @@ Flight Fare Dataset
 Dataset source: 
 [Kaggle - Flight Fare Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
 
+## Dataset Overview
+
+The dataset contains information about airlines, journey dates,
+routes, duration, stops, additional information, and flight prices.
+
+![Dataset Information](images/Information%20Regarding%20Dataset.png)
+
 ## 🔧 Technologies Used
 
 - Python
@@ -61,6 +68,13 @@ Dataset source:
 
 Feature engineering was performed to improve model performance.
 Log transformation was also evaluated as part of the modeling process.
+
+## 📈 Model Comparison
+
+The performance of multiple regression models was evaluated using
+RMSE, MAE, R² score, and accuracy.
+
+![Model Comparison Results](images/Model_compariso_results.png)
 
 ## 🏆 Results
 
