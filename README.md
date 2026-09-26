@@ -78,7 +78,7 @@ as the selected approach based on the evaluated results.
 ```text
 flight-fare-analysis/
 │
-├── flight_fare_analysis.ipynb
+├── flight-fare-analysis.ipynb
 ├── README.md
 └── Flight_Fare_Analysis_Presentation.pptx
 ```
